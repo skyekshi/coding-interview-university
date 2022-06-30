@@ -1,0 +1,6 @@
+# My problems during configuration on mac
+
+1. git clone git@github.com:"skyekshi"/coding-interview-university.git
+double quotes needed for zsh to find the repository.
+
+
